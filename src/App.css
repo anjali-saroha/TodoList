@@ -1,0 +1,58 @@
+
+#root{
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  text-align: center;
+}
+
+.App {
+  margin-top:30px;
+  margin-left:auto;
+  margin-right:auto;
+  width: 70%;
+  padding: 10px;
+ 
+}
+
+ .App-header{
+    height:70px;
+    width: 90%;
+    margin-left:100px;
+    border-bottom: 1px solid grey;
+    } 
+
+.App-title{
+  color:yellow;
+  margin-left:20px;
+  font-size:30px;
+  float: left;
+}
+
+.AddButton{
+  float:right;
+  margin-right: 10%;
+}
+
+.List{
+ position: relative;
+}
+
+.showList{
+  margin-left:100px;
+  height: 50px;
+  text-align: justify;
+  position: relative;
+  border-bottom: 1px solid grey;
+}
+
+.input{
+  border:none;
+  background-color:#282c34 ;
+  color: white;
+  font-size:20px;
+  outline: 0;
+  margin-left: auto;
+  margin-top:20px
+}
+
